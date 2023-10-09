@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Harry David Richard Lee (@HarryLee45)
+- 👀 My studies have taken me through the use of HTML, Javascript, CSS, Java, Python, C# C++ and SQL.
+- 🌱 I’m currently learning more C# through unity.
